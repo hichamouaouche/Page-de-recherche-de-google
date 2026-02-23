@@ -40,7 +40,7 @@ La page est entièrement statique ; aucun backend ou configuration serveur n'est
 >
 > ![Capture d'écran de la page Google](./screenshot.png)
 >
-> *(L'image ci-dessus correspond au fichier `screenshot.png` présent dans ce dossier ; remplacez-le par une capture réelle si besoin.)*
+> *(L'image ci-dessus est le fichier `screenshot.png` qui se trouve dans ce dossier. Elle est automatiquement affichée ici et peut être remplacée par une autre capture si vous le souhaitez.)*
 
 
 
