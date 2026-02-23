@@ -7,7 +7,7 @@ Ce TP consiste à reproduire l'apparence de la page de recherche Google en HTML 
 - `google.html` : fichier HTML principal de la page. Il contient la structure de la barre de navigation, le logo, la barre de recherche et les boutons.
 - `google.css` : feuille de style associée pour la mise en forme. Elle gère les couleurs, les marges, l'alignement et les icônes.
 - `sel.png` (mentionné dans le HTML) : image de profil utilisée dans la barre de navigation.
-- `screenshot.png` : capture d'écran du rendu final (fichier d'exemple, peut être remplacé).
+- `screenshot.png` : capture d'écran du rendu final (fichier affiché lors de l'exécution, remplacez-le par la capture de votre rendu).
 
 ## Description détaillée
 
@@ -35,6 +35,12 @@ La page reproduit les éléments suivants :
 3. Ouvrir `google.html` dans un navigateur web moderne (Chrome, Firefox, Edge).
 
 La page est entièrement statique ; aucun backend ou configuration serveur n'est nécessaire.
+
+> **Capture d'écran du rendu :**
+>
+> ![Capture d'écran de la page Google](./screenshot.png)
+>
+> *(L'image ci-dessus correspond au fichier `screenshot.png` présent dans ce dossier ; remplacez-le par une capture réelle si besoin.)*
 
 
 
